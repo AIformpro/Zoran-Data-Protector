@@ -1,0 +1,2 @@
+# Zoran-Data-Protector
+Zoran-Data-Protector masque données sensibles et gère TTL adaptatif. Rollback ΔM11.3 en cas de violation. Preuve technique RGPD.
