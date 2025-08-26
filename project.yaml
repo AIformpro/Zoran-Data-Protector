@@ -1,0 +1,5 @@
+name: Zoran-Data-Protector
+description: Personal data protection engine for Zoran aSiM (masking + adaptive TTL)
+license: MIT
+author: Frederic Tabary
+contact: tabary01@gmail.com

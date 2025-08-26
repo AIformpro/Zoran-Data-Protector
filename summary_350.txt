@@ -1,0 +1,1 @@
+Zoran-Data-Protector protège nativement les données personnelles : masquage emails/téléphones, TTL adaptatif, audit log, rollback ΔM11.3. Preuve exécutable RGPD & AI Act, open-source et reproductible, intégrée à l’écosystème Zoran aSiM.
